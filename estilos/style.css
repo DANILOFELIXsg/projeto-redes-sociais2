@@ -36,10 +36,10 @@ section#quadro {
 iframe#tela {
     position: relative;
     top: 14px;
-    left: 14.5px;
+    left: 15px;
 
-    width: 371px;
-    height: 472px;
+    width: 371px;  /*371x472*/
+    height: 473px;
 }
 
 section#redes-sociais {
